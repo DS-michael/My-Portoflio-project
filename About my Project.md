@@ -1,0 +1,2 @@
+# My-Portoflio-project
+This project showcases my SQL and Python skills through a comprehensive data analysis and web scraping task. I used Python (BeautifulSoup and Requests libraries). I  performed extensive data cleaning and transformation using SQL, applying techniques like JOINs, subqueries, and window functions to ensure data accuracy. The project highlights my ability to clean and analyze data efficiently, demonstrating proficiency in both SQL and Python for data-driven insights.
